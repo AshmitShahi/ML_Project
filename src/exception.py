@@ -1,4 +1,4 @@
-import sys
+import sys # used to access exception details
 from src.logger import logging
 
 def error_message_detail(error,error_detail:sys):
